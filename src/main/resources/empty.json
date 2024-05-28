@@ -1,0 +1,18 @@
+[
+  {
+    "username": "",
+    "password": "12345678",
+    "expectedMessage": "Required field!"
+  },
+  {
+    "username": "academy.test@etiya.com",
+    "password": "",
+    "expectedMessage": "Required field!"
+  },
+  {
+    "username": "",
+    "password": "",
+    "expectedMessage": "Required field!"
+  }
+]
+
